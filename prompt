@@ -1,0 +1,17 @@
+#Contexto 
+Montar um treino ideal baseado nas variáveis:
+{{biotipo}}
+{{peridodo}}
+{{treino}}
+
+#Regras
+Regra1 = biotipo: Identificar biotipo informado na variável, sendo, Ectomorfo, Mesomorfo e Endomorfo
+Regra2 = periodo: Periodo do treino, sendo, 1 dia Treino Full Body, 3 dias Treino ABC e 5 dias Treino ABCDE
+Regra3 = treino
+-Funcional
+-Maquinario
+-Peso livre
+-Cardio
+-HIIT
+#Resultado
+Com base nos valores informados nas variáveis e regras, crie um treino ideal para a pessoa que corresponde aos valores informados.	
